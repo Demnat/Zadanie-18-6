@@ -1,0 +1,15 @@
+{
+  "name": "zadanie-18-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:sass": "node-sass --output-style expanded --source-map true -wo css scss"
+  },
+  "author": "Demnat",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.4"
+  }
+}
